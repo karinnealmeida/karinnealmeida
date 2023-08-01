@@ -2,7 +2,7 @@
 
 -  Cursando 3º período da graduação de **Engenharia de Software**; 👩‍🎓
 - *Artista* que resolveu migrar para programção aos 30; 🎨
-- A versão ~~clichè~~ adulta da criança que **nerd** que era apaixonada por jogos de lógica e hoje se descobriu no backend; 🎮
+- A versão ~~cliché~~ adulta da criança **nerd** que curtia jogos de lógica e hoje se descobriu no backend; 📚
 - Na busca de me tornar flluente em Javascript, porém aberta a descobrir e aprender novas linguagens; 👩‍💻
 - Guitarrista nas horas vagas; 🎸
 
