@@ -4,10 +4,12 @@
 - Na busca de me tornar flluente em Javascript, porém aberta a descobrir e aprender novas linguagens; 👩‍💻
 - Guitarrista nas horas vagas; 🎸
 
+### infos:
+
   ```javascript
   const karinne = {
     idade: 30,
-    estado: "RJ"
+    cidadeNatal: "Rio de Janeiro"
   }
   
   const formacao = {
@@ -28,6 +30,7 @@
       conclusao: 2023-12-01
     }
   }
+```
 
 [![Linkedin:](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnealmeida93/)](https://www.linkedin.com/in/karinnealmeida93/)
 [![GitHub](https://img.shields.io/github/followers/Karinne?label=follow&style=social)](https://github.com/karinnealmeida)
