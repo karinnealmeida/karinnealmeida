@@ -7,7 +7,7 @@
 
 ### TECNOLOGIAS QUE VENHO APRIMORANDO
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
           
 
 ### infos:
@@ -40,7 +40,9 @@
 
 [![Linkedin:](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnealmeida93/)](https://www.linkedin.com/in/karinnealmeida93/)
 [![GitHub](https://img.shields.io/github/followers/Karinne?label=follow&style=social)](https://github.com/karinnealmeida)
-[![HackerRank](https://badgen.net/static/HackerRank/KarinneAlmeida/green?icon=https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg)](https://www.hackerrank.com/karinnealmeida)
+<a href="https://www.hackerrank.com/karinnealmeida"> <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="100" height="20">
+</a>
+
 
 > "Uma parte de mim
 é só vertigem;
