@@ -25,7 +25,7 @@
       instituicao: "UNESA",
       periodoAtual: 4,
       totalDePeriodos: 8,
-      duracao: [4, "anos"]
+      duracao: [4, "anos"],
       conclusao: 2026-06-01
     }
     profissional = {
