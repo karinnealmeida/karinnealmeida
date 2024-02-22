@@ -31,7 +31,7 @@
     profissional = {
       curso: "Desenvolvimento Backend",
       instituicao: "Cubos Academy",
-      pstatus: "concluído"
+      pstatus: "concluído",
       duracao: [11, "meses"],
       conclusao: 2023-12-01
     }
