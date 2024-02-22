@@ -15,7 +15,7 @@
 
   ```javascript
   const karinne = {
-    idade: 30,
+    idade: 31,
     cidadeNatal: "Rio de Janeiro"
   }
   
@@ -23,7 +23,7 @@
     graduacao = {
       curso: "Engenharia de Software",
       instituicao: "UNESA",
-      periodoAtual: 3,
+      periodoAtual: 4,
       totalDePeriodos: 8,
       duracao: [4, "anos"]
       conclusao: 2026-06-01
@@ -31,8 +31,7 @@
     profissional = {
       curso: "Desenvolvimento Backend",
       instituicao: "Cubos Academy",
-      periodo: 4,
-      totalDePeriodos: 6,
+      pstatus: "concluído"
       duracao: [11, "meses"],
       conclusao: 2023-12-01
     }
