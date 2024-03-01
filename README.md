@@ -2,7 +2,7 @@
 
 - *Artista* que resolveu migrar para programção; 🎨
 - A versão ~~cliché~~ adulta da criança **nerd** que curtia jogos de lógica e hoje se descobriu no backend; 📚
-- Na busca de me tornar flluente em Javascript 👩‍💻
+- Na busca de me tornar fluente em Javascript 👩‍💻
   - porém aberta a descobrir e aprender novas linguagens; 🚀
 - Guitarrista nas horas vagas; 🎸
 
