@@ -28,8 +28,9 @@
       duracao: [4, "anos"],
       conclusao: 2026-06-01
     }
-    profissional = {
-      curso: "Desenvolvimento Backend",
+    curso = {
+      titulo: "Desenvolvimento Backend",
+      abordagem: ["Javascript", "node", "Typescript", "Soft Skills"]
       instituicao: "Cubos Academy",
       status: "concluído",
       duracao: [11, "meses"],
