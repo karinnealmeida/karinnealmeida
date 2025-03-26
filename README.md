@@ -23,7 +23,7 @@
     graduacao = {
       curso: "Engenharia de Software",
       instituicao: "UNESA",
-      periodoAtual: 5,
+      periodoAtual: 6,
       totalDePeriodos: 8,
       duracao: [4, "anos"],
       conclusao: 2026-06-01
